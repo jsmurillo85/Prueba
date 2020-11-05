@@ -1,0 +1,8 @@
+COMANDOS 
+git status -> Para ver si falta actualizar archivos, subirlos al prouecto 
+git add . -> Para agregar todos los archivos
+git commit -m "" -> Para subir al servidor, en las ("") se ponen los cambios que se hicieron
+git clone -> Para clonar un repositorio 
+git push -> Para subir al servidor 
+git fetch -> Para listar los cambios que hay en el repositorio  
+cd ../  -> Para devolverme o salir de una carpeta
