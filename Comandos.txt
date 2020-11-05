@@ -6,3 +6,4 @@ git clone -> Para clonar un repositorio
 git push -> Para subir al servidor 
 git fetch -> Para listar los cambios que hay en el repositorio  
 cd ../  -> Para devolverme o salir de una carpeta
+git pull -> Para actualizar los cambios
